@@ -6,3 +6,7 @@
 - Systems
 - AND MORE!
 > **ONLY** Idiots **HATES** me
+
+```bash
+tenlocraft -h -p
+```
